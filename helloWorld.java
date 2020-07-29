@@ -7,5 +7,6 @@ public class HelloWorld
 		System.out.println("Hello World!");
 		system.out.println("Add another text");
 		system.out.println("branch1");
+		system.out.println("branch2");
 	}
 }
